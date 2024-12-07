@@ -38,14 +38,14 @@ Tested under 10.15.4 Macbook Pro 2018, may or may not work on your model.
 ##### 3. Update IOS device detail
 
 
-## Download complied APP
+## Download compiled APP
 
 [BatteryStatusShow_1.5.5.zip](/release/BatteryStatusShow_1.5.5.zip)
 
-### Complie
+### Compiled
 1. clone this git
-2. complie smcutil scheme 
-3. complie BatteryStatusShow scheme
+2. compile smcutil scheme 
+3. compile BatteryStatusShow scheme
 
 Copyright (c) 2020 SC Lee. All rights reserved.
 
